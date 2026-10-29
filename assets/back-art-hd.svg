@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1153" height="1364" viewBox="0 0 1153 1364" role="img" aria-labelledby="title desc">
+<title id="title">Hypergamy</title><desc id="desc">Rekonstruksi vektor grafis belakang dari desain yang diberikan: figur serta panah merah, putih, dan cyan.</desc>
+<defs>
+ <g id="man" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <circle cy="-45" r="9" stroke="none"/>
+  <path d="M-11-32H11Q20-32 20-23V6Q20 10 16 10Q12 10 12 6V-17H10V43Q10 48 5 48Q1 48 1 43V9H-1V43Q-1 48-6 48Q-10 48-10 43V-17H-12V6Q-12 10-16 10Q-20 10-20 6V-23Q-20-32-11-32Z" stroke="none"/>
+ </g>
+ <g id="woman" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <circle cy="-45" r="9" stroke="none"/>
+  <path d="M-7-31H7L21 16H-21Z" stroke="none"/>
+  <path d="M-10-27-21 0M10-27 21 0" stroke-width="7" fill="none"/>
+  <path d="M-7 14V43M7 14V43" stroke-width="8" fill="none"/>
+ </g>
+ <marker id="red-arrow" markerWidth="22" markerHeight="22" refX="18" refY="11" orient="auto" markerUnits="userSpaceOnUse"><path d="M2 2 18 11 2 20" fill="none" stroke="#ff0719" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></marker>
+ <marker id="cyan-arrow" markerWidth="22" markerHeight="22" refX="18" refY="11" orient="auto" markerUnits="userSpaceOnUse"><path d="M2 2 18 11 2 20" fill="none" stroke="#00c4ec" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<g fill="#fff" font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <text x="576.5" y="66" font-size="52" font-weight="700">HYPERGAMY</text>
+ <path d="M30 84H1123" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+ <text x="270" y="132" font-size="20" font-weight="700" textLength="442" lengthAdjust="spacingAndGlyphs">WHOM MEN WOULD HAPPILY PARTNER WITH</text>
+ <text x="880" y="132" font-size="20" font-weight="700" textLength="454" lengthAdjust="spacingAndGlyphs">WHOM WOMEN WOULD HAPPILY PARTNER WITH</text>
+</g>
+<g fill="none" stroke="#ff0719" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#red-arrow)">
+<path d="M94 214L398 214"/>
+<path d="M94 214L398 324"/>
+<path d="M94 214L398 434"/>
+<path d="M94 324L398 214"/>
+<path d="M94 324L398 324"/>
+<path d="M94 324L398 434"/>
+<path d="M94 324L398 544"/>
+<path d="M94 434L398 214"/>
+<path d="M94 434L398 324"/>
+<path d="M94 434L398 434"/>
+<path d="M94 434L398 544"/>
+<path d="M94 434L398 654"/>
+<path d="M94 544L398 324"/>
+<path d="M94 544L398 434"/>
+<path d="M94 544L398 544"/>
+<path d="M94 544L398 654"/>
+<path d="M94 544L398 764"/>
+<path d="M94 654L398 434"/>
+<path d="M94 654L398 544"/>
+<path d="M94 654L398 654"/>
+<path d="M94 654L398 764"/>
+<path d="M94 654L398 874"/>
+<path d="M94 764L398 544"/>
+<path d="M94 764L398 654"/>
+<path d="M94 764L398 764"/>
+<path d="M94 764L398 874"/>
+<path d="M94 764L398 984"/>
+<path d="M94 874L398 654"/>
+<path d="M94 874L398 764"/>
+<path d="M94 874L398 874"/>
+<path d="M94 874L398 984"/>
+<path d="M94 874L398 1094"/>
+<path d="M94 984L398 764"/>
+<path d="M94 984L398 874"/>
+<path d="M94 984L398 984"/>
+<path d="M94 984L398 1094"/>
+<path d="M94 984L398 1204"/>
+<path d="M94 1094L398 874"/>
+<path d="M94 1094L398 984"/>
+<path d="M94 1094L398 1094"/>
+<path d="M94 1094L398 1204"/>
+<path d="M94 1204L398 984"/>
+<path d="M94 1204L398 1094"/>
+<path d="M94 1204L398 1204"/>
+</g><g fill="none" stroke="#00c4ec" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cyan-arrow)">
+<path d="M1055 214L756 214"/>
+<path d="M1055 214L756 324"/>
+<path d="M1055 214L756 434"/>
+<path d="M1055 324L756 214"/>
+<path d="M1055 324L756 324"/>
+<path d="M1055 324L756 434"/>
+<path d="M1055 434L756 214"/>
+<path d="M1055 434L756 324"/>
+<path d="M1055 434L756 434"/>
+<path d="M1055 544L756 214"/>
+<path d="M1055 544L756 324"/>
+<path d="M1055 544L756 434"/>
+<path d="M1055 654L756 214"/>
+<path d="M1055 654L756 324"/>
+<path d="M1055 654L756 434"/>
+<path d="M1055 764L756 214"/>
+<path d="M1055 764L756 324"/>
+<path d="M1055 764L756 434"/>
+<path d="M1055 874L756 214"/>
+<path d="M1055 874L756 324"/>
+<path d="M1055 874L756 434"/>
+<path d="M1055 984L756 214"/>
+<path d="M1055 984L756 324"/>
+<path d="M1055 984L756 434"/>
+<path d="M1055 1094L756 214"/>
+<path d="M1055 1094L756 324"/>
+<path d="M1055 1094L756 434"/>
+<path d="M1055 1204L756 214"/>
+<path d="M1055 1204L756 324"/>
+<path d="M1055 1204L756 434"/>
+</g>
+<use href="#man" transform="translate(60 212)" color="#ff0719"/>
+<use href="#woman" transform="translate(435 212)" color="#fff"/>
+<use href="#man" transform="translate(723 212)" color="#fff"/>
+<use href="#woman" transform="translate(1095 212)" color="#00c4ec"/>
+<use href="#man" transform="translate(60 322)" color="#ff0719"/>
+<use href="#woman" transform="translate(435 322)" color="#fff"/>
+<use href="#man" transform="translate(723 322)" color="#fff"/>
+<use href="#woman" transform="translate(1095 322)" color="#00c4ec"/>
+<use href="#man" transform="translate(60 432)" color="#ff0719"/>
+<use href="#woman" transform="translate(435 432)" color="#fff"/>
+<use href="#man" transform="translate(723 432)" color="#fff"/>
+<use href="#woman" transform="translate(1095 432)" color="#00c4ec"/>
+<use href="#man" transform="translate(60 542)" color="#ff0719"/>
+<use href="#woman" transform="translate(435 542)" color="#fff"/>
+<use href="#man" transform="translate(723 542)" color="#fff"/>
+<use href="#woman" transform="translate(1095 542)" color="#00c4ec"/>
+<use href="#man" transform="translate(60 652)" color="#ff0719"/>
+<use href="#woman" transform="translate(435 652)" color="#fff"/>
+<use href="#man" transform="translate(723 652)" color="#fff"/>
+<use href="#woman" transform="translate(1095 652)" color="#00c4ec"/>
+<use href="#man" transform="translate(60 762)" color="#ff0719"/>
+<use href="#woman" transform="translate(435 762)" color="#fff"/>
+<use href="#man" transform="translate(723 762)" color="#fff"/>
+<use href="#woman" transform="translate(1095 762)" color="#00c4ec"/>
+<use href="#man" transform="translate(60 872)" color="#ff0719"/>
+<use href="#woman" transform="translate(435 872)" color="#fff"/>
+<use href="#man" transform="translate(723 872)" color="#fff"/>
+<use href="#woman" transform="translate(1095 872)" color="#00c4ec"/>
+<use href="#man" transform="translate(60 982)" color="#ff0719"/>
+<use href="#woman" transform="translate(435 982)" color="#fff"/>
+<use href="#man" transform="translate(723 982)" color="#fff"/>
+<use href="#woman" transform="translate(1095 982)" color="#00c4ec"/>
+<use href="#man" transform="translate(60 1092)" color="#ff0719"/>
+<use href="#woman" transform="translate(435 1092)" color="#fff"/>
+<use href="#man" transform="translate(723 1092)" color="#fff"/>
+<use href="#woman" transform="translate(1095 1092)" color="#00c4ec"/>
+<use href="#man" transform="translate(60 1202)" color="#ff0719"/>
+<use href="#woman" transform="translate(435 1202)" color="#fff"/>
+<use href="#man" transform="translate(723 1202)" color="#fff"/>
+<use href="#woman" transform="translate(1095 1202)" color="#00c4ec"/>
+<g fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600" text-anchor="middle"><text x="576.5" y="1294">Anything above the expectation arrow would be considered a catch,</text><text x="576.5" y="1321">anything below would be settling</text></g></svg>
